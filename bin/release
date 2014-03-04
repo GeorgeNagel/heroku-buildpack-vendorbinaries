@@ -1,6 +1,2 @@
 #!/bin/sh
-cat << EOF
----
-config_vars:
-  PATH: /app/.heroku/python/bin:/usr/local/bin:/usr/bin:/bin:/app
-EOF
+echo "--- {}"
